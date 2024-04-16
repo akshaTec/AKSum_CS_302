@@ -1,0 +1,13 @@
+
+
+##  DATA Analysis
+
+> Economics : GDP ; Wealth ; Stock
+> Software repo distribution; traffic flow
+
+## Modeling and Simulation 
+
+> Medical related : Drug doses ; Tumer Growth ; Epidemics
+> Ecology and env : Lake pollution ; Alley effect ; commpetitve exclusion ; predator and prey
+> Conflict and Strategy : Richerdson ; war games ; Lanchester 
+
